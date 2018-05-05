@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/src/RequestCatcher.AspNetCore/obj
+/test/RequestCatcher.AspNetCore.Demo/bin/Debug/netcoreapp2.0
+/test/RequestCatcher.AspNetCore.Demo/obj
+/.vs/config
+/.vs/RequestCatcher.AspNetCore/v15/Server/sqlite3
+/.vs/RequestCatcher.AspNetCore/v15/.suo
