@@ -3,7 +3,8 @@
 ################################################################################
 
 /src/RequestCatcher.AspNetCore/obj
-/test/RequestCatcher.AspNetCore.Demo/bin/Debug/netcoreapp2.0
+/src/RequestCatcher.AspNetCore/bin
+/test/RequestCatcher.AspNetCore.Demo/bin
 /test/RequestCatcher.AspNetCore.Demo/obj
 /.vs/config
 /.vs/RequestCatcher.AspNetCore/v15/Server/sqlite3
